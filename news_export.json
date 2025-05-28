@@ -28,7 +28,7 @@
     },
     {
         "title": "Police given more time to question Liverpool parade suspect",
-        "published": "2025-05-28 13:50:11",
+        "published": "2025-05-28 13:59:07",
         "source": "BBC News",
         "country": "UK",
         "summary": "Police get an extension to continue questioning a man arrested on suspicion of attempted murder.",
@@ -36,11 +36,11 @@
         "language": "en"
     },
     {
-        "title": "Germany's Merz promises to help Ukraine produce long-range missiles",
-        "published": "2025-05-28 12:55:34",
+        "title": "German chancellor promises to help Ukraine produce long-range missiles",
+        "published": "2025-05-28 13:58:20",
         "source": "BBC News",
         "country": "UK",
-        "summary": "The chancellor said earlier there were \"no longer\" any range restrictions on weapons supplied by Kyiv's Western allies.",
+        "summary": "Friedrich Merz said earlier there were \"no longer\" any range restrictions on weapons supplied by Kyiv's Western allies.",
         "url": "https://www.bbc.com/news/articles/cpw7vllepx7o",
         "language": "en"
     },
@@ -90,7 +90,7 @@
         "language": "en"
     },
     {
-        "title": "UK temps to hit 26C this weekend after sunniest spring on record",
+        "title": "UK to hit 26C this weekend after sunniest spring on record",
         "published": "2025-05-28 11:38:22",
         "source": "BBC News",
         "country": "UK",
@@ -285,6 +285,24 @@
         "country": "UK",
         "summary": "How Antony has rebooted his career on loan at Real Betis from Manchester United, helping the Spanish side to the Conference League final.",
         "url": "https://www.bbc.com/sport/football/articles/clyg6x0rjdeo",
+        "language": "en"
+    },
+    {
+        "title": "Boat capsizes on arrival at Spain’s Canary Islands; seven women, girls die",
+        "published": "Wed, 28 May 2025 13:58:15 +0000",
+        "source": "Al Jazeera",
+        "country": "Qatar",
+        "summary": "Local media reports say the small vessel appeared to be packed with more than 100 people.",
+        "url": "https://www.aljazeera.com/news/2025/5/28/boat-capsizes-on-arrival-at-spains-canary-islands-seven-women-girls-die?traffic_source=rss",
+        "language": "en"
+    },
+    {
+        "title": "Cultural Appreciation or Cultural Appropriation?",
+        "published": "Wed, 28 May 2025 13:30:00 +0000",
+        "source": "Al Jazeera",
+        "country": "Qatar",
+        "summary": "Today on The Stream: We dive into the space between cultural appropriation and appreciation.",
+        "url": "https://www.aljazeera.com/program/the-stream/2025/5/28/cultural-appreciation-or-cultural-appropriation?traffic_source=rss",
         "language": "en"
     },
     {
@@ -495,24 +513,6 @@
         "language": "en"
     },
     {
-        "title": "Ukraine’s Zelenskyy to meet Germany’s Merz in Berlin, seeks more support",
-        "published": "Wed, 28 May 2025 08:28:17 +0000",
-        "source": "Al Jazeera",
-        "country": "Qatar",
-        "summary": "Talks come after German chancellor says allies no longer imposing restrictions on the range of weapons supplied to Kyiv.",
-        "url": "https://www.aljazeera.com/news/2025/5/28/ukraines-zelenskyy-to-meet-germanys-merz-in-berlin-seeks-more-support?traffic_source=rss",
-        "language": "en"
-    },
-    {
-        "title": "Video: SpaceX Starship launch fails as spacecraft spirals out of control",
-        "published": "Wed, 28 May 2025 08:08:54 +0000",
-        "source": "Al Jazeera",
-        "country": "Qatar",
-        "summary": "SpaceX&#039;s giant Starship rocket crashed into the Indian Ocean after controllers lost contact with the spacecraft.",
-        "url": "https://www.aljazeera.com/video/newsfeed/2025/5/28/video-spacex-starship-launch-fails-as-spacecraft-spirals-out-of-control?traffic_source=rss",
-        "language": "en"
-    },
-    {
         "title": "As Trump Seeks Iran Deal, Israel Again Raises Possible Strikes on Nuclear Sites",
         "published": "Wed, 28 May 2025 12:48:57 +0000",
         "source": "NY Times",
@@ -595,7 +595,7 @@
     },
     {
         "title": "Trump’s Tariffs Drive a Rise in Trade Crime",
-        "published": "Tue, 27 May 2025 22:35:25 +0000",
+        "published": "Tue, 27 May 2025 22:35:26 +0000",
         "source": "NY Times",
         "country": "USA",
         "summary": "President Trump’s steep global tariffs have supercharged efforts to evade them. Some U.S. companies say the government is ill equipped to keep up.",
@@ -657,21 +657,12 @@
         "language": "en"
     },
     {
-        "title": "Mamdani Has a Thin Legislative Record but Is a Forceful Voice in Albany",
-        "published": "Wed, 28 May 2025 07:00:06 +0000",
+        "title": "L.A. Made Big Promises for the Olympics. Can It Deliver by 2028?",
+        "published": "Wed, 28 May 2025 09:02:05 +0000",
         "source": "NY Times",
         "country": "USA",
-        "summary": "In Assemblyman Zohran Mamdani’s four-plus years in the New York State Capitol, only three of his bills have become law. His influence is comparatively greater.",
-        "url": "https://www.nytimes.com/2025/05/28/nyregion/mamdani-record-albany-mayor.html",
-        "language": "en"
-    },
-    {
-        "title": "Cuomo Proposes $20 Minimum Wage for New York City",
-        "published": "Wed, 28 May 2025 09:02:50 +0000",
-        "source": "NY Times",
-        "country": "USA",
-        "summary": "Former Gov. Andrew M. Cuomo, the front-runner in the New York City mayor’s race, will announce a plan to raise the city’s minimum wage to $20 an hour by 2027.",
-        "url": "https://www.nytimes.com/2025/05/28/nyregion/cuomo-minimum-wage-20-dollar.html",
+        "summary": "From the Super Bowl to the Oscars, Los Angeles has plenty of experience with high-profile spectacles. But the 2028 Olympics will test the city in the aftermath of devastating wildfires.",
+        "url": "https://www.nytimes.com/2025/05/28/us/los-angeles-olympics-challenges.html",
         "language": "en"
     },
     {
@@ -685,7 +676,7 @@
     },
     {
         "title": "Beware: We Are Entering a New Phase of the Trump Era",
-        "published": "Wed, 28 May 2025 12:58:47 +0000",
+        "published": "Wed, 28 May 2025 14:04:29 +0000",
         "source": "NY Times",
         "country": "USA",
         "summary": "I’ve seen the signs before. I’m seeing them now.",
@@ -703,7 +694,7 @@
     },
     {
         "title": "Trump vs. Harvard",
-        "published": "Wed, 28 May 2025 10:57:49 +0000",
+        "published": "Wed, 28 May 2025 14:08:48 +0000",
         "source": "NY Times",
         "country": "USA",
         "summary": "Inside the president’s battle with the university.",
@@ -711,12 +702,12 @@
         "language": "en"
     },
     {
-        "title": "What to Know About Plasma Exchange Therapy and Longevity",
-        "published": "Wed, 28 May 2025 09:00:28 +0000",
+        "title": "At Sean ‘Diddy’ Combs Trial, Testimony About a Break-in at Kid Cudi’s Home",
+        "published": "Wed, 28 May 2025 13:57:48 +0000",
         "source": "NY Times",
         "country": "USA",
-        "summary": "A small new study offers insight into this trendy anti-aging treatment.",
-        "url": "https://www.nytimes.com/2025/05/28/well/plasma-exchange-longevity.html",
+        "summary": "A Los Angeles police officer said that he observed a Cadillac Escalade with a license plate registered to Bad Boy Productions, Inc. leave the scene.",
+        "url": "https://www.nytimes.com/2025/05/28/arts/music/sean-combs-diddy-trial-victim-4.html",
         "language": "en"
     },
     {
@@ -729,12 +720,12 @@
         "language": "en"
     },
     {
-        "title": "At Sean ‘Diddy’ Combs Trial, Testimony About a Break-in at Kid Cudi’s Home",
-        "published": "Wed, 28 May 2025 13:47:27 +0000",
+        "title": "Mamdani Has a Thin Legislative Record but Is a Forceful Voice in Albany",
+        "published": "Wed, 28 May 2025 07:00:06 +0000",
         "source": "NY Times",
         "country": "USA",
-        "summary": "A Los Angeles police officer said that he observed a Cadillac Escalade with a license plate registered to Bad Boy Productions, Inc. leave the scene.",
-        "url": "https://www.nytimes.com/2025/05/28/arts/music/sean-combs-diddy-trial-victim-4.html",
+        "summary": "In Assemblyman Zohran Mamdani’s four-plus years in the New York State Capitol, only three of his bills have become law. His influence is comparatively greater.",
+        "url": "https://www.nytimes.com/2025/05/28/nyregion/mamdani-record-albany-mayor.html",
         "language": "en"
     },
     {
@@ -753,6 +744,96 @@
         "country": "India",
         "summary": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/121341512.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />Chief Minister Pushkar Singh Dhami directed officials to intensify the anti-corruption campaign and submit a detailed report on conversion-related cases. He emphasized strict action against suspicious activities, thorough verification of documents, and the removal of property encroachment. Dhami also prioritized local workers for government construction, incorporating state culture in designs, and strengthening border security.",
         "url": "https://timesofindia.indiatimes.com/india/uttarakhand-cm-dhami-chairs-meeting-to-discuss-campaign-against-corruption-visits-shri-hemkunt-sahib/articleshow/121341512.cms",
+        "language": "en"
+    },
+    {
+        "title": "After Revanth meets PM, Hyderabad Metro Rail Phase II awaits Centre’s final nod for the JV",
+        "published": "Wed, 28 May 2025 19:40:07 +0530",
+        "source": "The Hindu",
+        "country": "India",
+        "summary": "",
+        "url": "https://www.thehindu.com/news/national/telangana/after-revanth-meets-pm-hyderabad-metro-rail-phase-ii-awaits-centres-final-nod-for-the-jv/article69629246.ece",
+        "language": "en"
+    },
+    {
+        "title": "Tirupati DFO stresses on native plant varieties for better green cover",
+        "published": "Wed, 28 May 2025 19:37:01 +0530",
+        "source": "The Hindu",
+        "country": "India",
+        "summary": "The District Forest Officer urges local communities, volunteers and nature lovers to safeguard native varieties; also describes the Seshachalam Biosphere Reserve as a harmonious blend of spirituality and nature",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/tirupati-dfo-stresses-on-native-plant-varieties-for-better-green-cover/article69629118.ece",
+        "language": "en"
+    },
+    {
+        "title": "Life sentence for college teacher who plotted sensational murder in Odisha",
+        "published": "Wed, 28 May 2025 19:35:17 +0530",
+        "source": "The Hindu",
+        "country": "India",
+        "summary": "Punjilal Meher, a teacher, harboured resentment and jealousy towards a female colleague who was promoted ahead of him, and during her son’s wedding, he sent parcel bomb he had learnt to make from YouTube videos",
+        "url": "https://www.thehindu.com/news/national/odisha/life-sentence-for-college-teacher-who-plotted-sensational-murder-in-odisha/article69629148.ece",
+        "language": "en"
+    },
+    {
+        "title": "TMC (M) moves Madras High Court to condone delay in filing monetary contribution reports before Election Commission",
+        "published": "Wed, 28 May 2025 19:34:56 +0530",
+        "source": "The Hindu",
+        "country": "India",
+        "summary": "The delay had resulted in the Income Tax department denying tax exemptions for the contributions received by the party in 2018-19 and 2019-20",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tmc-m-moves-madras-high-court-to-condone-delay-in-filing-monetary-contribution-reports-before-election-commission/article69629360.ece",
+        "language": "en"
+    },
+    {
+        "title": "Kamal Haasan clarifies Kannada remark: It was a statement of love",
+        "published": "Wed, 28 May 2025 19:33:53 +0530",
+        "source": "The Hindu",
+        "country": "India",
+        "summary": "Actor Kamal Haasan has responded to the controversy around his remark on the Kannada language, and defended his statement by calling it an expression of love",
+        "url": "https://www.thehindu.com/entertainment/movies/kamal-haasan-kannada-controversy-remark-thug-life-statement-of-love/article69629449.ece",
+        "language": "en"
+    },
+    {
+        "title": "Bhadradri Kothagudem Collector’s wife delivers baby boy at CHC in Palvancha",
+        "published": "Wed, 28 May 2025 19:31:46 +0530",
+        "source": "The Hindu",
+        "country": "India",
+        "summary": "",
+        "url": "https://www.thehindu.com/news/national/telangana/bhadradri-kothagudem-collectors-wife-delivers-baby-boy-at-chc-in-palvancha/article69629491.ece",
+        "language": "en"
+    },
+    {
+        "title": "PIL opposes Friday prayers on public road outside mosque in Coimbatore",
+        "published": "Wed, 28 May 2025 19:27:52 +0530",
+        "source": "The Hindu",
+        "country": "India",
+        "summary": "“We are a multi-religious country. So, reasonable accommodation must be extended by people of every faith,” says Justice Senthilkumar Ramamoorthy",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/pil-opposes-friday-prayers-on-public-road-outside-mosque-in-coimbatore/article69629238.ece",
+        "language": "en"
+    },
+    {
+        "title": "APSSDC to host mega job mela at Mulakalacheruvu on May 31",
+        "published": "Wed, 28 May 2025 19:23:54 +0530",
+        "source": "The Hindu",
+        "country": "India",
+        "summary": "Several leading companies, including Aaradhya HR Solutions, Yazaki Engineering Ltd., Wistron, Foxconn, and Muthoot Finance, will be participating in the recruitment drive",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/apssdc-to-host-mega-job-mela-at-mulakalacheruvu-on-may-31/article69629250.ece",
+        "language": "en"
+    },
+    {
+        "title": "Chandrababu Naidu vows to realise NTR’s dream of a poverty-free society",
+        "published": "Wed, 28 May 2025 19:23:10 +0530",
+        "source": "The Hindu",
+        "country": "India",
+        "summary": "At the TDP’s political conclave, Mahanadu, leaders pay tributes to the late leader on his 102nd birth anniversary",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/chandrababu-naidu-vows-to-realise-ntrs-dream-of-a-poverty-free-society/article69629277.ece",
+        "language": "en"
+    },
+    {
+        "title": "Union Cabinet approves ₹3,653-crore four-lane Badvel-Nellore NH",
+        "published": "Wed, 28 May 2025 19:21:33 +0530",
+        "source": "The Hindu",
+        "country": "India",
+        "summary": "Proposed corridor will reduce distance to Krishanpatnam port by 34 km, from 142 km to 108 km compared to the existing Badvel-Nellore road; this will cut travel time by an hour and substantially reduce fuel consumption",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/union-cabinet-approves-3653-crore-four-lane-badvel-nellore-nh/article69629446.ece",
         "language": "en"
     },
     {
@@ -1095,15 +1176,6 @@
         "country": "India",
         "summary": "The Embassy said it has strongly taken up this matter with the Iranian authorities, and requested that the missing Indians should be “urgently traced and their safety should be ensured.”",
         "url": "https://www.thehindu.com/news/national/indian-embassy-in-iran-says-taken-up-missing-indians-case-with-iranian-authorities/article69629047.ece",
-        "language": "en"
-    },
-    {
-        "title": "Children ask beauty queens about overcoming adversity, ambition and what it takes to become a Miss World",
-        "published": "Wed, 28 May 2025 16:51:48 +0530",
-        "source": "The Hindu",
-        "country": "India",
-        "summary": "",
-        "url": "https://www.thehindu.com/news/cities/Hyderabad/children-ask-beauty-queens-about-overcoming-adversity-ambition-and-what-it-takes-to-become-a-miss-world/article69628745.ece",
         "language": "en"
     },
     {
@@ -1575,87 +1647,6 @@
         "language": "en"
     },
     {
-        "title": "Tejashwi Yadav’s baby boy has been named ‘Iraj’: Lalu Prasad",
-        "published": "Wed, 28 May 2025 11:42:25 +0530",
-        "source": "The Hindu",
-        "country": "India",
-        "summary": "In a post on X, Mr. Prasad said, ‘So our grand daughter Katyayani’s little brother is named ‘Iraj’ by me and Rabri Devi. Tejashwi and Rajshree have given him full name as ‘Iraj Lalu’.",
-        "url": "https://www.thehindu.com/news/national/bihar/tejashwi-yadavs-baby-boy-has-been-named-iraj-lalu-prasad/article69628128.ece",
-        "language": "en"
-    },
-    {
-        "title": "COVID-19: Karnataka records 36 positive cases",
-        "published": "Wed, 28 May 2025 11:37:33 +0530",
-        "source": "The Hindu",
-        "country": "India",
-        "summary": "According to a bulletin issued by the Health Department, while the positivity rate in the last 24 hours is 9.44%, total tests done in Karnataka in the last 24 hours is 381",
-        "url": "https://www.thehindu.com/news/national/karnataka/covid-19-karnataka-records-36-positive-cases/article69628055.ece",
-        "language": "en"
-    },
-    {
-        "title": "Bantwal murder case: Cases booked against 15 persons",
-        "published": "Wed, 28 May 2025 11:30:24 +0530",
-        "source": "The Hindu",
-        "country": "India",
-        "summary": "Members of PUCL question the inaction of police and district in-charge minister Dinesh Gundu Rao to curb communal tensions, hatred and hate speeches in Dakshina Kannada.",
-        "url": "https://www.thehindu.com/news/cities/Mangalore/bantwal-murder-case-booked-against-15-persons/article69628064.ece",
-        "language": "en"
-    },
-    {
-        "title": "SC collegium recommends Telangana HC Acting CJ’s transfer to Calcutta HC",
-        "published": "Wed, 28 May 2025 11:19:54 +0530",
-        "source": "The Hindu",
-        "country": "India",
-        "summary": "All the three judges were with the Telangana High Court when they were transferred to Karnataka and Patna High Courts earlier.",
-        "url": "https://www.thehindu.com/news/national/telangana/sc-collegium-recommends-telangana-hc-acting-cjs-transfer-to-calcutta-hc/article69626389.ece",
-        "language": "en"
-    },
-    {
-        "title": "Kamal Haasan nominated as Makkal Needhi Maiam candidate for Rajya Sabha polls",
-        "published": "Wed, 28 May 2025 11:19:02 +0530",
-        "source": "The Hindu",
-        "country": "India",
-        "summary": "The ruling DMK had allotted one Rajya Sabha seat to the MNM during negotiations before the Lok Sabha elections in 2024",
-        "url": "https://www.thehindu.com/news/national/tamil-nadu/kamal-haasan-nominated-as-makkal-needhi-maiam-candidate-for-rajya-sabha-polls/article69628088.ece",
-        "language": "en"
-    },
-    {
-        "title": "DMK announces candidates for Rajya Sabha election; allots one seat to Kamal Haasan",
-        "published": "Wed, 28 May 2025 11:18:44 +0530",
-        "source": "The Hindu",
-        "country": "India",
-        "summary": "In a statement, DMK president and Tamil Nadu Chief Minister M.K. Stalin re-nominated incumbent MP P. Wilson, and announced S.R. Sivalingam and A. Rokkaiah Malik, better known as poet Salma, as candidates",
-        "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-announces-three-candidates-for-rajya-sabha-biennial-elections-allots-one-seat-to-kamal-haasan/article69627965.ece",
-        "language": "en"
-    },
-    {
-        "title": "COVID-19: Maharashtra records 66 new cases on May 27",
-        "published": "Wed, 28 May 2025 11:15:08 +0530",
-        "source": "The Hindu",
-        "country": "India",
-        "summary": "Pune reported 18 new cases, while other districts reported less than 10 cases each",
-        "url": "https://www.thehindu.com/news/national/maharashtra/covid19-coronavirus-cases-maharashtra-mumbai-pune-thane-may-27-2025/article69627973.ece",
-        "language": "en"
-    },
-    {
-        "title": "Arunachal Pradesh reports first Covid-19 case of current wave",
-        "published": "Wed, 28 May 2025 10:53:45 +0530",
-        "source": "The Hindu",
-        "country": "India",
-        "summary": "A 34-year-old pregnant woman and her mother tested positive for COVID-19; health department monitoring closely",
-        "url": "https://www.thehindu.com/news/national/arunachal-pradesh/arunachal-pradesh-reports-first-covid-19-case-of-current-wave/article69627966.ece",
-        "language": "en"
-    },
-    {
-        "title": "Bad road claims life in West Bengal’s Asansol",
-        "published": "Wed, 28 May 2025 10:52:43 +0530",
-        "source": "The Hindu",
-        "country": "India",
-        "summary": "Protests erupt in Sonarpur over poor road conditions as locals block road for hours demanding immediate action",
-        "url": "https://www.thehindu.com/news/national/west-bengal/bad-road-claims-life-in-west-bengals-asansol/article69625630.ece",
-        "language": "en"
-    },
-    {
         "title": "How power and precision helped Payne Haas bend Origin to his will",
         "published": "Wed, 28 May 2025 13:48:28 +0000",
         "source": "ABC News",
@@ -1674,7 +1665,7 @@
         "language": "en"
     },
     {
-        "title": "Five quick hits — league's best forget how to kick and did To'o deserve the bin?",
+        "title": "Five quick hits — league's best forget how to kick and an Origin great fumes over sin bin",
         "published": "Wed, 28 May 2025 12:42:24 +0000",
         "source": "ABC News",
         "country": "Australia",
@@ -1881,6 +1872,33 @@
         "language": "en"
     },
     {
+        "title": "Alcaraz survives Marozsan scare to keep French Open defence on track",
+        "published": "Wed, 28 May 2025 22:12:21 +0800",
+        "source": "Channel News Asia",
+        "country": "Singapore",
+        "summary": "",
+        "url": "https://www.channelnewsasia.com/sport/alcaraz-survives-marozsan-scare-keep-french-open-defence-track-5157361",
+        "language": "en"
+    },
+    {
+        "title": "Spain denies power grid 'experiment' caused giant blackout",
+        "published": "Wed, 28 May 2025 22:09:56 +0800",
+        "source": "Channel News Asia",
+        "country": "Singapore",
+        "summary": "",
+        "url": "https://www.channelnewsasia.com/world/spain-power-outage-denies-power-grid-experiment-cause-blackout-5157301",
+        "language": "en"
+    },
+    {
+        "title": "'Beautiful draw': Retiring Gasquet meets Sinner in French Open swansong",
+        "published": "Wed, 28 May 2025 21:55:58 +0800",
+        "source": "Channel News Asia",
+        "country": "Singapore",
+        "summary": "",
+        "url": "https://www.channelnewsasia.com/sport/beautiful-draw-retiring-gasquet-meets-sinner-french-open-swansong-5157326",
+        "language": "nl"
+    },
+    {
         "title": "OpenAI CFO says new structure opens door to potential future IPO",
         "published": "Wed, 28 May 2025 21:42:39 +0800",
         "source": "Channel News Asia",
@@ -1899,7 +1917,7 @@
         "language": "en"
     },
     {
-        "title": "Economy Minister Rafizi not out of race against PM Anwar's daughter Nurul Izzah to be his heir",
+        "title": "‘Not end of the road’: Cabinet resignation could help Rafizi in bid to succeed PM Anwar in his party",
         "published": "Wed, 28 May 2025 21:32:00 +0800",
         "source": "Channel News Asia",
         "country": "Singapore",
@@ -2031,33 +2049,6 @@
         "country": "Singapore",
         "summary": "",
         "url": "https://www.channelnewsasia.com/business/global-payments-sell-payroll-unit-fintech-acrisure-11-billion-5157101",
-        "language": "en"
-    },
-    {
-        "title": "Singapore sprint queen Shanti Pereira takes 100m silver at Asian Athletics Championships",
-        "published": "Wed, 28 May 2025 19:21:00 +0800",
-        "source": "Channel News Asia",
-        "country": "Singapore",
-        "summary": "Pereira was the defending champion in the event, having clinched a historic sprint double at the 2023 championships.",
-        "url": "https://www.channelnewsasia.com/sport/shanti-pereira-asian-athletics-championships-team-singapore-5156761",
-        "language": "en"
-    },
-    {
-        "title": "Around 47 injured in chaos, shooting at Gaza aid centre: UN",
-        "published": "Wed, 28 May 2025 18:40:00 +0800",
-        "source": "Channel News Asia",
-        "country": "Singapore",
-        "summary": "The Israeli military said afterwards that its soldiers did not fire at civilians at the aid distribution point.",
-        "url": "https://www.channelnewsasia.com/world/gaza-aid-centre-shooting-47-injured-us-humanitarian-foundation-5156941",
-        "language": "en"
-    },
-    {
-        "title": "Josephine Teo unveils enhanced Singapore AI language model, encourages workers to boost basic AI skills",
-        "published": "Wed, 28 May 2025 18:32:00 +0800",
-        "source": "Channel News Asia",
-        "country": "Singapore",
-        "summary": "Singapore's Minister for Digital Development and Information also said the nation will need to increase backing for formalised training to support businesses' AI needs.",
-        "url": "https://www.channelnewsasia.com/singapore/josephine-teo-mddi-minister-atxsummit-artificial-intelligence-meralion-language-model-5157006",
         "language": "en"
     },
     {
@@ -3807,6 +3798,33 @@
         "language": "en"
     },
     {
+        "title": "Germany to help Ukraine increase missile production",
+        "published": "N/A",
+        "source": "DW",
+        "country": "Germany",
+        "summary": "Chancellor Friedrich Merz met Ukrainian President Volodymyr Zelenskyy in Berlin and reiterated his tough stance on Russia.",
+        "url": "https://www.dw.com/en/germany-to-help-ukraine-increase-missile-production/a-72701811?maca=en-rss-en-top-1022-rdf",
+        "language": "en"
+    },
+    {
+        "title": "Cambodian soldier killed in clash with Thai army",
+        "published": "N/A",
+        "source": "DW",
+        "country": "Germany",
+        "summary": "Thailand's military said Cambodian soldiers entered a disputed area near Ubon Ratchathani province. Both countries claim the other fired first.",
+        "url": "https://www.dw.com/en/cambodian-soldier-killed-in-clash-with-thai-army/a-72700404?maca=en-rss-en-top-1022-rdf",
+        "language": "en"
+    },
+    {
+        "title": "Czech Republic summons Chinese ambassador over cyber attacks",
+        "published": "N/A",
+        "source": "DW",
+        "country": "Germany",
+        "summary": "The attacks have happened since 2022 and have been attributed to cyber espionage actor APT31, which Prague alleges is linked to the Chinese Ministry of State Security.",
+        "url": "https://www.dw.com/en/czech-republic-summons-chinese-ambassador-over-cyber-attacks/a-72699971?maca=en-rss-en-top-1022-rdf",
+        "language": "en"
+    },
+    {
         "title": "Laptops, iPhones 'Made in Saudi Arabia': Hype or genuine opportunity?",
         "published": "N/A",
         "source": "DW",
@@ -3892,7 +3910,7 @@
         "published": "N/A",
         "source": "DW",
         "country": "Germany",
-        "summary": "Judges have dismissed a climate case brought by a Peruvian farmer against RWE seeking damages from the German utility for endangering his home due to melting glaciers.",
+        "summary": "Judges have dismissed a climate case brought by a Peruvian farmer against German energy company RWE seeking damages for endangering his home due to melting glaciers.",
         "url": "https://www.dw.com/en/german-court-rejects-climate-case-against-energy-giant-rwe/a-72693362?maca=en-rss-en-top-1022-rdf",
         "language": "en"
     },
@@ -3966,33 +3984,6 @@
         "country": "Germany",
         "summary": "German Chancellor Friedrich Merz says he no longer understands Israel's policy in Gaza. A number of politicians are even demanding an end to Germany's arms deliveries.",
         "url": "https://www.dw.com/en/germany-s-tone-with-israel-is-getting-harsher/a-72691002?maca=en-rss-en-top-1022-rdf",
-        "language": "en"
-    },
-    {
-        "title": "France's National Assembly backs 'assisted dying' bill",
-        "published": "N/A",
-        "source": "DW",
-        "country": "Germany",
-        "summary": "Lawmakers in the French lower house backed the right-to-die bill with 305 votes for and 199 against. French President Emmanuel Macron called it \"an important step.\"",
-        "url": "https://www.dw.com/en/france-s-national-assembly-backs-assisted-dying-bill/a-72691528?maca=en-rss-en-top-1022-rdf",
-        "language": "en"
-    },
-    {
-        "title": "Iran-US nuclear talks: Is a new deal imminent?",
-        "published": "N/A",
-        "source": "DW",
-        "country": "Germany",
-        "summary": "An interim agreement on Iran's controversial nuclear program is being negotiated between the US and Iran. The Gulf states have a key role to play as mediators.",
-        "url": "https://www.dw.com/en/iran-us-nuclear-talks-is-a-new-deal-imminent/a-72687249?maca=en-rss-en-top-1022-rdf",
-        "language": "en"
-    },
-    {
-        "title": "Gaza aid group, mired in controversy, begins operating",
-        "published": "N/A",
-        "source": "DW",
-        "country": "Germany",
-        "summary": "A new aid organization, endorsed by Israel, has lost its executive director before operations even began. Questions remain on its ability to effectively deliver humanitarian assistance to Gazans.",
-        "url": "https://www.dw.com/en/gaza-aid-group-mired-in-controversy-begins-operating/a-72687371?maca=en-rss-en-top-1022-rdf",
         "language": "en"
     },
     {
@@ -4222,7 +4213,7 @@
     },
     {
         "title": "Zadie Smith and Ian McEwan among 380 writers and groups to call Gaza war ‘genocide’",
-        "published": "2025-05-28 13:44:25",
+        "published": "2025-05-28 13:53:05",
         "source": "Guardian",
         "country": "UK",
         "summary": "<p>Letter also signed by Hanif Kureishi and Russell T Davies urges ceasefire and unrestricted distribution of aid</p><p>Three hundred and eighty writers and organisations including Zadie Smith, Ian McEwan, Russell T Davies, Hanif Kureishi, Frank Cottrell-Boyce and George Monbiot have <a href=\"https://medium.com/@horatioclare/writers-demand-immediate-gaza-ceasefire-65ae44bd7241\">signed a letter</a> stating that the <a href=\"https://www.theguardian.com/world/israel-hamas-war\">Israeli government’s war in Gaza</a> is genocidal and calling for an immediate ceasefire.</p><p>“The use of the words ‘genocide’ or ‘acts of genocide’ to describe what is happening in Gaza is no longer debated by international legal experts or human rights organizations,” reads the letter, which was also signed by William Dalrymple, Jeanette Winterson, Brian Eno, Kate Mosse, Irvine Welsh and Elif Shafak.</p> <a href=\"https://www.theguardian.com/world/2025/may/28/gaza-letter-genocide-zadie-smith-ian-mcewan\">Continue reading...</a>",
@@ -4312,7 +4303,7 @@
     },
     {
         "title": "Liverpool parade collision: police get more time to question suspect and say seven people still in hospital – live updates",
-        "published": "2025-05-28 13:38:53",
+        "published": "2025-05-28 13:57:52",
         "source": "Guardian",
         "country": "UK",
         "summary": "<p>Officers say they are now in contact with 79 people who were injured on Monday and they continue to question 53-year-old on suspicion of drug driving and attempted murder</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/2025/may/27/visual-guide-to-how-the-liverpool-parade-collision-unfolded\">A visual guide to how the Liverpool parade collision unfolded</a></p></li></ul><p>Police have been given more time to question the 53-year-old driver who allegedly collided into a crowd at Liverpool’s victory parade on Monday, Merseyside Police said.</p><p>As a reminder, the man, who is from the West Derby area of Liverpool, has been arrested on suspicion of attempted murder, driving while unfit through drugs and dangerous driving.</p> <a href=\"https://www.theguardian.com/uk-news/live/2025/may/28/liverpool-parade-collision-live-news-updates\">Continue reading...</a>",
@@ -4356,11 +4347,20 @@
         "language": "en"
     },
     {
+        "title": "Hawaii will tax vacation stays and use money to help counter climate crisis",
+        "published": "2025-05-28 13:56:58",
+        "source": "Guardian",
+        "country": "UK",
+        "summary": "<p>Tax expected to generate nearly $100m annually, to be used for projects such as replacing sand on eroding beaches</p><p><a href=\"https://www.theguardian.com/us-news/hawaii\">Hawaii’s</a> governor signed legislation that boosts a tax imposed on hotel room and vacation rental stays in order to raise money to address the consequences of the climate crisis.</p><p>It’s the first time in a government in the US imposes such levy to help cope with a warming planet.</p> <a href=\"https://www.theguardian.com/us-news/2025/may/28/hawaii-tourist-tax-vacation-climate-crisis\">Continue reading...</a>",
+        "url": "https://www.theguardian.com/us-news/2025/may/28/hawaii-tourist-tax-vacation-climate-crisis",
+        "language": "en"
+    },
+    {
         "title": "Trump pardons reality TV stars Julie and Todd Chrisley",
         "published": "2025-05-28 13:45:02",
         "source": "Guardian",
         "country": "UK",
-        "summary": "<p>Couple was found guilty in 2022 of conspiring to defraud community banks out of more than $30m and tax evasion</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has pardoned a reality TV couple who were sentenced to prison after defrauding banks of at least $30m, the White House announced on Tuesday, the latest in a string of gestures that appear to benefit supporters of the US president.</p><p>Julie and Todd Chrisley, stars of the USA Network show Chrisley Knows Best and Growing Up Chrisley that showed the family’s lavish lifestyle, were convicted in 2022 of taking out over $30m in fraudulent loans from community banks. After conviction, a judge sentenced Todd Chrisley to 12 years in prison, while his wife got seven years behind bars.</p> <a href=\"https://www.theguardian.com/us-news/2025/may/27/trump-pardon-julie-todd-chrisley\">Continue reading...</a>",
+        "summary": "<p>Couple was found guilty in 2022 of conspiring to defraud community banks out of more than $30m and tax evasion</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has pardoned a reality TV couple who were sentenced to prison after defrauding banks of at least $30m, the White House announced on Tuesday, the latest in a string of gestures that appear to benefit supporters of the US president.</p><p>Julie and Todd Chrisley, stars of the USA Network show Chrisley Knows Best and Growing Up Chrisley that showed the family’s lavish lifestyle, were convicted in 2022 of taking out more than $30m in fraudulent loans from community banks. After their conviction, a judge sentenced Todd Chrisley to 12 years in prison, while his wife received seven years behind bars.</p> <a href=\"https://www.theguardian.com/us-news/2025/may/27/trump-pardon-julie-todd-chrisley\">Continue reading...</a>",
         "url": "https://www.theguardian.com/us-news/2025/may/27/trump-pardon-julie-todd-chrisley",
         "language": "en"
     },
@@ -4389,15 +4389,6 @@
         "country": "UK",
         "summary": "<p>Tesla billionaire calls legislation a ‘massive spending bill’ that will add to the federal deficit</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2025/may/28/trump-tax-bill-weakens-doge-cost-cutting-efforts-elon-musk\">Musk says Trump tax bill weakens Doge cost-cutting measures</a></p></li></ul><p>The vice-president, <strong>JD Vance</strong>, is scheduled to deliver the keynote address at the <strong>Bitcoin 2025 Conference in Vegas</strong>, which will set out the Trump administration’s turbocharged approach to the US crypto industry.</p><p>If you cast your minds back, it’s the same conference Trump <a href=\"https://apnews.com/article/donald-trump-bitcoin-cryptocurrency-stockpile-6f1314f5e99bbf47cc3ee6fc6178588d\">spoke at last year</a> in Nashville calling for America to become a “bitcoin superpower” and the “crypto capital of the planet” under his leadership.</p><p>At 4:30pm ET, Trump’s sons <strong>Eric</strong> and <strong>Donald Trump Jr</strong> will speak at the very same conference in Vegas. It’s presumably an industry they feel invested in, given they back a major Bitcoin venture themselves, <a href=\"https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV64_yG7snWAffRT9BYG1rZJy_JK0boVntm6P0EWMWPP-wNmoYfNbN1o_9t_prTXwV3esyLoWW4rJJalwHcAAEWHH6wy1Fw-D6qjrdEgq6xlQzE5sf3rVaRLr5Y_1ytN40w8Zd9daxLxcm4yR7iPux378/4gv/8gEb4jtKTESlegq9Dab5gA/h27/h001.Ltp4tMsS1g2gTzqvVF-niZQLPOKBUjBovTRSqrZAjAs\">per Reuters</a>. And it comes just a day after a separate family-linked business, the <strong>Trump Media &amp; Technology Group</strong>, announced <em>its </em>intention to raise <em>$2.5bn </em>to invest in bitcoin, as <a href=\"https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV68DkcOgpKJhncvf49dlM8zlxpK8dWkFKZ3R1DgvRQ7W-PJMS4Pu_x8IUylClOjtWox4e2MXpQWUaEsfWIv3Qb4hIqXyGl3ttDcMAXPHnEH0fRD2__HViixVei7YcQjDjRQ/4gv/8gEb4jtKTESlegq9Dab5gA/h28/h001.y9TUMhTZrG1O6GuF1wx05C5nd17rfB6wgHL4q3AkP7U\">the Wall Street Journal reports</a>. And that in turn came after Trump offered out exclusive VIP dinner invites to the 220 top buyers of his personal $Trump memecoin, as an incentive to buy more stock. It’s all head-spinning stuff for a president of the United States.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/may/28/us-politics-live-donald-trump-elon-musk-tax-doge-harvard-students-immigration-news-updates\">Continue reading...</a>",
         "url": "https://www.theguardian.com/us-news/live/2025/may/28/us-politics-live-donald-trump-elon-musk-tax-doge-harvard-students-immigration-news-updates",
-        "language": "en"
-    },
-    {
-        "title": "First Thing: Trump administration orders US embassies to pause student visa interviews",
-        "published": "2025-05-28 11:17:28",
-        "source": "Guardian",
-        "country": "UK",
-        "summary": "<p>US to introduce social media screening for any international students. Plus, the notorious facilities used to ‘rehabilitate’ disobedient Saudi women</p><ul><li><p><a href=\"https://www.theguardian.com/info/2018/sep/17/guardian-us-morning-briefing-sign-up-to-stay-informed\"><strong>Don’t already get First Thing in your inbox? Sign up here</strong></a></p></li></ul><p>Good morning.</p><p>The Trump administration has ordered US embassies globally to immediately pause scheduling visa interviews for international students as it prepares to introduce <a href=\"https://www.theguardian.com/us-news/2025/may/27/international-student-visa-trump\">sweeping social media monitoring</a> for these applicants.</p><p><strong>What does this </strong><strong>move mean?</strong> All student visa applications, rather than just those flagged for activism, will now have their social media combed.</p><p><strong>What else is Trump doing with universities?</strong> The administration will order federal agencies to cut all ties with Harvard University,<strong> </strong>in a <a href=\"https://www.theguardian.com/us-news/2025/may/27/trump-harvard-federal-contracts\">further escalation of its assault</a> on the storied institution, which is expected to lose contracts worth an estimated $100m under the plans.</p><p><strong>How long have they existed?</strong> The institutions, which officials describe as care homes, were set up across the country in the 1960s.</p> <a href=\"https://www.theguardian.com/us-news/2025/may/28/first-thing-trump-administration-orders-us-embassies-to-pause-student-visa-interviews\">Continue reading...</a>",
-        "url": "https://www.theguardian.com/us-news/2025/may/28/first-thing-trump-administration-orders-us-embassies-to-pause-student-visa-interviews",
         "language": "en"
     },
     {
@@ -4933,11 +4924,20 @@
     },
     {
         "title": "Guerra Ucraina - Russia, le news di oggi. Merz: “Vogliamo che Kiev abbia armi a lungo raggio”",
-        "published": "Wed, 28 May 2025 13:14:59 +0000",
+        "published": "Wed, 28 May 2025 13:57:53 +0000",
         "source": "La Repubblica",
         "country": "Italy",
         "summary": "Zelensky: “Pronto a trilaterale con Putin e Trump”. Lavrov: “Presto la data dei nuovi colloqui in una sede adatta ad entrambi”, secondo il Wsj Trump sarebbe pronto a sanzioni contro Putin: “Sta giocando col fuoco”, scrive il presidente. Il Cremlino risponde: “I nostri interessi nazionali sono sopra a tutto”",
         "url": "https://www.repubblica.it/esteri/2025/05/28/diretta/guerra_ucraina_russia_news_oggi-424633278/",
+        "language": "it"
+    },
+    {
+        "title": "Israele, le news da Gaza. Netanyahu: “Abbiamo ucciso Muhammed Sinwar”",
+        "published": "Wed, 28 May 2025 13:45:50 +0000",
+        "source": "La Repubblica",
+        "country": "Italy",
+        "summary": "600 giorni di guerra. Proteste delle famiglie degli ostaggi. Hamas: “Raggiunto accordo con Witkoff sulla tregua”: Media: Cpi valuta arresto di Smotrich e Ben Gvir.vQuindici morti a Gaza durante i raid notturni",
+        "url": "https://www.repubblica.it/esteri/2025/05/28/diretta/israele_palestina_gaza_guerra_news_oggi-424633501/",
         "language": "it"
     },
     {
@@ -4947,15 +4947,6 @@
         "country": "Italy",
         "summary": "Lo annuncia il capogruppo azzurro in Senato Maurizio Gasparri",
         "url": "https://www.repubblica.it/politica/2025/05/28/news/fedez_congresso_forza_italia_giovani_gasparri-424634434/",
-        "language": "it"
-    },
-    {
-        "title": "Israele, le news da Gaza. Von der Leyen: “A Gaza servono aiuti immediati e su larga scala”",
-        "published": "Wed, 28 May 2025 13:11:39 +0000",
-        "source": "La Repubblica",
-        "country": "Italy",
-        "summary": "600 giorni di guerra. Proteste delle famiglie degli ostaggi. Media: Cpi valuta arresto di Smotrich e Ben Gvir. Quindici morti a Gaza durante i raid notturni. Onu, 47 palestinesi feriti in assalto a centro distribuzione aiuti. Rubio: “Da organizzazione internazionali retorica anti-Israele”",
-        "url": "https://www.repubblica.it/esteri/2025/05/28/diretta/israele_palestina_gaza_guerra_news_oggi-424633501/",
         "language": "it"
     },
     {
@@ -5418,11 +5409,11 @@
         "language": "en"
     },
     {
-        "title": "Hong Kong student uses beauty app to falsify exam results for university admission",
+        "title": "Hong Kong student uses beauty app to falsify exam results for university entry",
         "published": "Wed, 28 May 2025 10:23:41 +0000",
         "source": "South China Morning Post",
         "country": "Hong Kong",
-        "summary": "A Hong Kong student admitted to using a beauty filter app’s image editing function to alter the university entrance exam result in her application to enrol in an undergraduate programme last year to improve her chances of admission.\nNg Tsz-ying, 22, pleaded guilty on Wednesday to a count of attempting to obtain services by deception for submitting to the Education University of Hong Kong a fake copy of her certificate in the Diploma of Secondary Education examination.\nFanling Court heard how the...",
+        "summary": "A Hong Kong student has admitted to using a beauty filter app’s image editing function to alter the university entrance exam result in her application to enrol in an undergraduate programme last year and improve her chances of admission.\nNg Tsz-ying, 22, pleaded guilty on Wednesday to a count of attempting to obtain services by deception for submitting to the Education University of Hong Kong a fake copy of her certificate in the Diploma of Secondary Education examination.\nFanling Court heard...",
         "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3312146/hong-kong-student-uses-beauty-app-falsify-exam-results-university-admission?utm_source=rss_feed",
         "language": "en"
     },
@@ -5715,11 +5706,20 @@
         "language": "en"
     },
     {
-        "title": "New programme to improve heart health among the elderly set to reach out to 60,000 a year",
+        "title": "First tranche of GE2025 candidate expenses published, with highest spending being over $100,000",
+        "published": "Wed, 28 May 2025 22:00:00 +0800",
+        "source": "Straits Times",
+        "country": "Singapore",
+        "summary": "<p>There were also candidates who did not spend a single cent.</p>",
+        "url": "https://www.straitstimes.com/singapore/politics/first-tranche-of-ge2025-candidate-expenses-published-with-highest-spending-being-over-100000",
+        "language": "en"
+    },
+    {
+        "title": "New programme with AI tools to improve heart health among elderly set to reach 60,000 a year",
         "published": "Wed, 28 May 2025 20:55:00 +0800",
         "source": "Straits Times",
         "country": "Singapore",
-        "summary": "<p>In 2023, cardiovascular disease accounted for almost one in three deaths in Singapore.</p>",
+        "summary": "<p>The programme uses AI tools help doctors identify any early signs of deterioration in patients.</p>",
         "url": "https://www.straitstimes.com/singapore/new-programme-to-improve-cardiovascular-care-in-elderly-set-to-reach-out-to-60000-a-year",
         "language": "en"
     },
@@ -6273,39 +6273,66 @@
         "language": "en"
     },
     {
-        "title": "Prison programme helps elderly inmates with mobility issues reintegrate into society",
-        "published": "Mon, 26 May 2025 22:00:00 +0800",
-        "source": "Straits Times",
-        "country": "Singapore",
-        "summary": "<p>Elderly inmates usually lack social support and are unable to find accommodation upon their release.</p>",
-        "url": "https://www.straitstimes.com/singapore/prison-programme-helps-elderly-inmates-with-mobility-issues-reintegrate-into-society",
+        "title": "Aishwarya Rai Bachchan shares Cannes memories with husband Abhishek’s romantic song, poses with daughter Aaradhya. Watch",
+        "published": "Wed, 28 May 2025 14:05:28 +0000",
+        "source": "Indian Express",
+        "country": "India",
+        "summary": "",
+        "url": "https://indianexpress.com/article/entertainment/bollywood/aishwarya-rai-bachchan-shares-cannes-memories-husband-abhishek-romantic-song-daughter-aaradhya-watch-10034470/",
         "language": "en"
     },
     {
-        "title": "2 to be charged over organising, abetting illegal public assemblies involving foreign workers",
-        "published": "Mon, 26 May 2025 21:55:00 +0800",
-        "source": "Straits Times",
-        "country": "Singapore",
-        "summary": "<p>A woman allegedly told her workers to hold placards while standing outside two construction sites.</p>",
-        "url": "https://www.straitstimes.com/singapore/courts-crime/2-to-be-charged-for-allegedly-organising-abetting-illegal-public-assemblies-involving-foreign",
+        "title": "Suniel Shetty accepts he, Akshay Kumar, Paresh Rawal cannot be replaced in Hera Pheri, talks about Kartik Aaryan’s casting: ‘He was never going to…’",
+        "published": "Wed, 28 May 2025 14:04:38 +0000",
+        "source": "Indian Express",
+        "country": "India",
+        "summary": "",
+        "url": "https://indianexpress.com/article/entertainment/bollywood/suniel-shetty-accepts-he-akshay-kumar-paresh-rawal-cannot-be-replaced-in-hera-pheri-talks-about-kartik-aaryans-casting-10034176/",
         "language": "en"
     },
     {
-        "title": "NSmen among 88 honorary aides-de-camp reappointed, with 24 new ones added to corps",
-        "published": "Mon, 26 May 2025 21:50:00 +0800",
-        "source": "Straits Times",
-        "country": "Singapore",
-        "summary": "<p>They support four full-time aides-de-camp in planning, managing and executing functions and events attended by the president.</p>",
-        "url": "https://www.straitstimes.com/singapore/for-this-nsman-serving-president-tharmans-office-has-been-an-opportunity-to-witness-history",
+        "title": "Congress vs Shashi Tharoor again: ‘Will prevail upon PM to name you spokesperson’",
+        "published": "Wed, 28 May 2025 14:04:13 +0000",
+        "source": "Indian Express",
+        "country": "India",
+        "summary": "",
+        "url": "https://indianexpress.com/article/india/congress-shashi-tharoor-pm-operation-sindoor-delegation-10034573/",
         "language": "en"
     },
     {
-        "title": "President Tharman, SM Lee send condolence letters to Vietnam after death of former president",
-        "published": "Mon, 26 May 2025 21:15:00 +0800",
-        "source": "Straits Times",
-        "country": "Singapore",
-        "summary": "<p>Vietnam's former president Tran Duc Luong died on May 20 at the age of 88 after an illness.</p>",
-        "url": "https://www.straitstimes.com/singapore/president-tharman-sm-lee-send-condolence-letters-to-vietnam-after-passing-of-former-president",
+        "title": "Menopause and libido: Can these three supplements help make your sex life spicy again?",
+        "published": "Wed, 28 May 2025 14:00:32 +0000",
+        "source": "Indian Express",
+        "country": "India",
+        "summary": "",
+        "url": "https://indianexpress.com/article/lifestyle/health/menopause-libido-three-supplements-help-make-your-sex-life-spicy-9681734/",
+        "language": "en"
+    },
+    {
+        "title": "How Buddhism shows the path to nirvana",
+        "published": "Wed, 28 May 2025 13:57:59 +0000",
+        "source": "Indian Express",
+        "country": "India",
+        "summary": "",
+        "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/how-buddhism-shows-the-path-to-nirvana-10034506/",
+        "language": "en"
+    },
+    {
+        "title": "Tamannaah Bhatia blames Instagram algorithm for liking post supporting Deepika Padukone ‘on its own’: ‘Random people are making this news’",
+        "published": "Wed, 28 May 2025 13:57:09 +0000",
+        "source": "Indian Express",
+        "country": "India",
+        "summary": "",
+        "url": "https://indianexpress.com/article/entertainment/bollywood/tamannaah-bhatia-blames-instagram-algorithm-for-liking-post-supporting-deepika-padukone-on-its-own-10034352/",
+        "language": "en"
+    },
+    {
+        "title": "Artists to sing, dance for cultural unity in Colombo concert",
+        "published": "Wed, 28 May 2025 13:53:15 +0000",
+        "source": "Indian Express",
+        "country": "India",
+        "summary": "",
+        "url": "https://indianexpress.com/article/cities/pune/artist-dance-cultural-unity-colombo-concert-10034318/",
         "language": "en"
     },
     {
@@ -6342,7 +6369,7 @@
         "country": "India",
         "summary": "",
         "url": "https://indianexpress.com/article/world/hamas-gaza-chief-mohammad-sinwar-killed-netanyahu-israel-10034567/",
-        "language": "sw"
+        "language": "id"
     },
     {
         "title": "Senior SAD leader and former Union minister Sukhdev Singh Dhindsa dies at 89",
@@ -6390,7 +6417,7 @@
         "language": "en"
     },
     {
-        "title": "Devendra Fadnavis Express Adda Live Updates: ‘More comfortable as an administrator’, says Maharashtra CM in conversation with Anant Goenka & Vandita Mishra",
+        "title": "Devendra Fadnavis Express Adda Live Updates: Not against inter-faith marriages, but ‘love jihad’ is a reality,’ says Maharashtra CM in conversation with Anant Goenka & Vandita Mishra",
         "published": "Wed, 28 May 2025 13:19:25 +0000",
         "source": "Indian Express",
         "country": "India",
@@ -7512,7 +7539,7 @@
         "country": "India",
         "summary": "",
         "url": "https://indianexpress.com/article/india/dmk-rajya-sabha-nominees-alliance-promise-kamal-haasan-10033562/",
-        "language": "en"
+        "language": "et"
     },
     {
         "title": "Yellowstone star Kevin Costner sued over ‘non-consensual rape scene’ in Horizon 2 by stunt performer: ‘Deeply betrayed, shocked’",
@@ -8043,69 +8070,6 @@
         "country": "India",
         "summary": "",
         "url": "https://indianexpress.com/article/cities/mumbai/mumbai-rains-today-live-updates-imd-weather-traffic-maharashtra-10033145/",
-        "language": "en"
-    },
-    {
-        "title": "Punjabi tipplers graduating to foreign liquor, sales jump 10-fold in four years",
-        "published": "Wed, 28 May 2025 04:07:14 +0000",
-        "source": "Indian Express",
-        "country": "India",
-        "summary": "",
-        "url": "https://indianexpress.com/article/cities/chandigarh/punjabi-tipplers-foreign-liquor-sales-jump-10-fold-four-years-10033202/",
-        "language": "en"
-    },
-    {
-        "title": "After the early monsoon in Mumbai, will Delhi be next? Here is what IMD says",
-        "published": "Wed, 28 May 2025 04:05:54 +0000",
-        "source": "Indian Express",
-        "country": "India",
-        "summary": "",
-        "url": "https://indianexpress.com/article/cities/delhi/early-monsoon-mumbai-delhi-next-what-imd-says-10033250/",
-        "language": "en"
-    },
-    {
-        "title": "US store sells Basmati rice sack coat worth Rs 1.6 lakh, stunned netizens react: ‘Would you wear it?’",
-        "published": "Wed, 28 May 2025 04:02:18 +0000",
-        "source": "Indian Express",
-        "country": "India",
-        "summary": "",
-        "url": "https://indianexpress.com/article/trending/trending-globally/us-store-sells-basmati-rice-sack-coat-worth-rs-1-6-lakh-viral-video-10033242/",
-        "language": "en"
-    },
-    {
-        "title": "This is what happens to the body when you take a cold shower",
-        "published": "Wed, 28 May 2025 04:00:15 +0000",
-        "source": "Indian Express",
-        "country": "India",
-        "summary": "",
-        "url": "https://indianexpress.com/article/lifestyle/health/this-is-what-happens-to-the-body-when-you-take-a-cold-shower-9563935/",
-        "language": "en"
-    },
-    {
-        "title": "GMCH-32 PG medical admissions: Punjab and Haryana HC shuts door on domicile quota",
-        "published": "Wed, 28 May 2025 03:57:59 +0000",
-        "source": "Indian Express",
-        "country": "India",
-        "summary": "",
-        "url": "https://indianexpress.com/article/cities/chandigarh/gmch-pg-medical-admissions-high-court-shuts-door-domicile-quota-10033175/",
-        "language": "en"
-    },
-    {
-        "title": "Deepika Padukone talks about ‘shutting out the noise’ amid fallout with Sandeep Reddy Vanga: ‘Standing by my decision, collaborating with people I know I’ll have good time with…’",
-        "published": "Wed, 28 May 2025 03:57:36 +0000",
-        "source": "Indian Express",
-        "country": "India",
-        "summary": "",
-        "url": "https://indianexpress.com/article/entertainment/bollywood/deepika-padukone-talks-about-shutting-out-the-noise-around-amid-fallout-with-sandeep-reddy-vanga-10033164/",
-        "language": "en"
-    },
-    {
-        "title": "Daily Briefing: Trump’s latest crackdown on students; impeachment motion against Justice Varma; need for India’s crypto strategy",
-        "published": "Wed, 28 May 2025 03:57:28 +0000",
-        "source": "Indian Express",
-        "country": "India",
-        "summary": "",
-        "url": "https://indianexpress.com/article/live-news/daily-briefing-top-news-today-10033220/",
         "language": "en"
     },
     {
@@ -9180,6 +9144,15 @@
         "language": "en"
     },
     {
+        "title": "Cong leaders slam Tharoor for 'crossed LoC' remark",
+        "published": "Wed, 28 May 2025 19:30:40 +0530",
+        "source": "Economic Times",
+        "country": "India",
+        "summary": "",
+        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/how-could-you-denigrate-the-golden-history-of-congress-pawan-khera-udit-raj-slam-shashi-tharoor-for-crossed-loc-for-first-time-remark/articleshow/121467886.cms",
+        "language": "en"
+    },
+    {
         "title": "US, Russia clash publicly as Ukraine war escalates",
         "published": "Wed, 28 May 2025 19:02:37 +0530",
         "source": "Economic Times",
@@ -9540,21 +9513,12 @@
         "language": "en"
     },
     {
-        "title": "Ultra rich betting on unreal estate to preserve wealth",
-        "published": "Wed, 28 May 2025 05:30:00 +0530",
+        "title": "Israel killed Hamas leader Sinwar: Netanyahu",
+        "published": "Wed, 28 May 2025 19:24:16 +0530",
         "source": "Economic Times",
         "country": "India",
-        "summary": "",
-        "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/ultra-rich-betting-on-unreal-estate-to-preserve-wealth/articleshow/121448686.cms",
-        "language": "en"
-    },
-    {
-        "title": "Akali leader Sukhdev Dhindsa passes away",
-        "published": "Wed, 28 May 2025 18:24:57 +0530",
-        "source": "Economic Times",
-        "country": "India",
-        "summary": "Veteran Shiromani Akali Dal leader and former Union Minister Sukhdev Singh Dhindsa passed away on Wednesday at a private hospital in Mohali. He was 89 years old.The political leader had been admitted to the hosptial on Tuesday, a family source told news agency PTI. A stalwart of Punjab politics and a long-serving member of both the state legislature and Parliament, Dhindsa played a key role in shaping the Shiromani Akali Dal’s trajectory over the decades. Known for his firm grasp on Sikh politics and administrative matters, Dhindsa held several important portfolios in the Union government, including Chemicals and Fertilizers, during the Vajpayee-led NDA regime.He was recently in the news in December 2024, when he, along with former Punjab Chief Minister Sukhbir Singh Badal, began performing religious penance at the Golden Temple in Amritsar. The move came a day after the Akal Takht — the highest temporal authority of Sikhs — pronounced a tankhah (religious punishment) against several former Akali leaders for decisions made during the SAD government's tenure from 2007 to 2017. The religious penalty stemmed in part from the controversial pardon granted in 2007 by the SAD government to Dera Sacha Sauda chief Gurmeet Ram Rahim Singh in a blasphemy case—an act that drew widespread criticism from the Sikh community.Moreover, in March 2024, Dhindsa made headlines when he merged his breakaway faction, Shiromani Akali Dal (Sanyukt), with the Sukhbir Singh Badal-led Shiromani Akali Dal, bringing an end to a four-year split. The reunion was the result of talks held between the two leaders, aimed at strengthening the Akali Dal and uniting the 'Panthic' voice.Calling the merger a “joint responsibility to bring Punjab back on track,” the Akali leader had stressed the need for collective leadership to address the state’s deteriorating law and order situation. Sukhbir Singh Badal referred to the merger as the \"merger of two families\" and urged Dhindsa to take up the role of party patron, describing him as the seniormost Akali leader after the demise of former CM Parkash Singh Badal.",
-        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/veteran-akali-leader-sukhdev-singh-dhindsa-passes-away/articleshow/121466958.cms",
+        "summary": "Prime Minister Benjamin Netanyahu says Israel killed senior Hamas leader Mohammed Sinwar, apparently confirming his death in a recent airstrike in the Gaza Strip. Speaking before parliament, Netanyahu included Sinwar in a list of Hamas leaders killed in Israeli strikes. Mohammed is the brother of Yahya Sinwar, the Hamas leader and one of the masterminds of the October 7, 2023 attack, who was killed by Israeli forces last year. (AP)",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/benjamin-netanyahu-says-israel-killed-senior-hamas-leader-mohammed-sinwar/articleshow/121468094.cms",
         "language": "en"
     },
     {
@@ -9819,6 +9783,24 @@
         "language": "en"
     },
     {
+        "title": "INS Tamal Isn't Just A Warship | Indian-Russian Defense Partnership | Watch #TheRightStand | News18",
+        "published": "Wed, 28 May 2025 19:39:57 +0530",
+        "source": "News18",
+        "country": "India",
+        "summary": "",
+        "url": "https://www.news18.com/videos/india/ins-tamal-isn-t-just-a-warship-indian-russian-defense-partnership-watch-therightstand-news18-9356987.html",
+        "language": "en"
+    },
+    {
+        "title": "Lokpal Gives Clean Chit To Former SEBI Chief Madhabi Puri Buch",
+        "published": "Wed, 28 May 2025 19:35:36 +0530",
+        "source": "News18",
+        "country": "India",
+        "summary": "",
+        "url": "https://www.news18.com/india/lokpal-gives-clean-chit-to-former-sebi-chief-madhabi-puri-buch-9356956.html",
+        "language": "en"
+    },
+    {
         "title": "Singaporean Woman, Who Narrowly Escaped Phalagam Attack, Sends Message To PM Modi",
         "published": "Wed, 28 May 2025 19:03:50 +0530",
         "source": "News18",
@@ -9828,8 +9810,8 @@
         "language": "en"
     },
     {
-        "title": "'To Tackle Threats,' Assam Govt To Issue Arms Licences To Indigenous People In Vulnerable Areas",
-        "published": "Wed, 28 May 2025 19:12:03 +0530",
+        "title": "Assam Govt To Issue Arms Licences To Indigenous People In Vulnerable Areas 'To Tackle Threats'",
+        "published": "Wed, 28 May 2025 19:37:00 +0530",
         "source": "News18",
         "country": "India",
         "summary": "",
@@ -9861,7 +9843,7 @@
         "country": "India",
         "summary": "",
         "url": "https://www.news18.com/india/series-of-earthquakes-hit-manipur-strongest-one-being-5-2-magnitude-9356838.html",
-        "language": "en"
+        "language": "de"
     },
     {
         "title": "Kamal Haasan's Controversial Remarks Ignite Kannada Protests Ahead of Yoga Day Celebration | News18",
@@ -9960,7 +9942,7 @@
         "country": "India",
         "summary": "",
         "url": "https://www.news18.com/india/bank-clerk-becomes-first-from-haryana-to-summit-mount-kanchenjunga-ws-dkl-9356579.html",
-        "language": "en"
+        "language": "id"
     },
     {
         "title": "Three Indians Go Missing In Iran, Embassy Says 'Strongly Taken Up This Matter' With Tehran",
@@ -10437,7 +10419,7 @@
         "country": "India",
         "summary": "",
         "url": "https://www.news18.com/india/aaj-ka-panchang-may-28-2025-tithi-vrat-and-todays-shubh-ashubh-muhurat-9352626.html",
-        "language": "tl"
+        "language": "en"
     },
     {
         "title": "Amritsar Blast Accidental But Planned As Major Terror Attack: Sources | Exclusive",
@@ -10500,7 +10482,7 @@
         "country": "India",
         "summary": "",
         "url": "https://www.news18.com/india/gangster-ravi-pujari-acquitted-in-dawood-ibrahim-gang-members-1999-murder-9355326.html",
-        "language": "de"
+        "language": "en"
     },
     {
         "title": "30 People Left Hanging Mid-Air For Hours After Joyride Malfunctions In Chennai | Video",
@@ -10671,7 +10653,7 @@
         "country": "India",
         "summary": "",
         "url": "https://www.news18.com/india/news18-evening-digest-pm-modi-takes-dig-at-congress-sends-stern-message-to-pakistan-other-top-stories-9355045.html",
-        "language": "en"
+        "language": "de"
     },
     {
         "title": "'Even Ganesh Idols Come From Abroad': PM Modi Bats For 'Make In India' Over Foreign Goods",
@@ -10698,7 +10680,7 @@
         "country": "India",
         "summary": "",
         "url": "https://www.news18.com/india/man-killed-another-injured-after-attacked-by-sword-in-karnatakas-mangaluru-9354949.html",
-        "language": "id"
+        "language": "en"
     },
     {
         "title": "Disruption & Possibilities: Forbes India Celebrates 16 Years With Landmark Anniversary Issue",
@@ -10842,7 +10824,7 @@
         "country": "India",
         "summary": "",
         "url": "https://www.news18.com/india/came-to-push-tourism-jk-cm-omar-abdullah-on-holding-cabinet-meeting-in-pahalgam-9354735.html",
-        "language": "en"
+        "language": "id"
     },
     {
         "title": "'Op Sindoor Changed Our Mindset': VP Dhankhar Says Indians Now More Nationalistic Than Ever",
@@ -11301,7 +11283,7 @@
         "country": "India",
         "summary": "",
         "url": "https://www.news18.com/india/14-year-old-boy-murders-grandmother-after-being-denied-rs-2600-for-an-outing-9353885.html",
-        "language": "en"
+        "language": "de"
     },
     {
         "title": "Andhra Cop Suspended After Viral Video Shows Him Thrashing 3 Men On Road",
@@ -11328,7 +11310,7 @@
         "country": "India",
         "summary": "",
         "url": "https://www.news18.com/india/aaj-ka-panchang-may-27-2025-tithi-vrat-and-todays-shubh-ashubh-muhurat-9352855.html",
-        "language": "en"
+        "language": "id"
     },
     {
         "title": "Wife's Academic, Career Priorities Can't Be Deemed Cruelty Under Matrimonial Law: Madras HC",
@@ -11454,7 +11436,7 @@
         "country": "India",
         "summary": "",
         "url": "https://www.news18.com/india/indias-strengths-to-pakistans-weaknesses-pm-modi-spreads-sindoor-message-in-bhuj-ws-l-9353580.html",
-        "language": "en"
+        "language": "de"
     },
     {
         "title": "UP Dentist Surrenders Months After Two Engineers Died Due To Hair Transplant",
@@ -11601,21 +11583,21 @@
         "language": "en"
     },
     {
-        "title": "Can You Still Get Covid-19 After Vaccination? Answers To 15 Such Key Questions",
-        "published": "Mon, 26 May 2025 15:51:52 +0530",
-        "source": "News18",
+        "title": "Legal practice mandate before entering judiciary to boost online coaching firms",
+        "published": "Wed, 28 May 2025 19:33:06 +0530",
+        "source": "Mint",
         "country": "India",
-        "summary": "",
-        "url": "https://www.news18.com/india/can-you-still-get-covid-19-after-vaccination-answers-to-15-such-key-questions-ws-dl-9353043.html",
+        "summary": "The SC had in 2002 removed the criteria for a three-year practice at the Bar before appearing for judicial services exams. But due to complaints from various High Courts regarding lack of maturity in handling cases, the three-judge bench led by CJI B.R. Gavai reinstated the practice requirement.",
+        "url": "https://www.livemint.com/news/legal-practice-law-graduate-online-coaching-advocate-judicial-services-physicswallah-11748426389470.html",
         "language": "en"
     },
     {
-        "title": "BJP’s Gonda Chief Helped Me As I Was Unwell, Is Like A Brother: Woman From Viral Clip Amid Row",
-        "published": "Mon, 26 May 2025 15:38:05 +0530",
-        "source": "News18",
+        "title": "Hamas Gaza Chief Mohammad Sinwar’s death confirmed by Israel’s Netanyahu weeks after body found in tunnel",
+        "published": "Wed, 28 May 2025 19:27:57 +0530",
+        "source": "Mint",
         "country": "India",
-        "summary": "",
-        "url": "https://www.news18.com/cities/bjps-gonda-chief-helped-me-as-i-was-unwell-is-like-a-brother-woman-from-clip-ws-kl-9353178.html",
+        "summary": "Netanyahu confirmed the Israeli military's operation that killed Mohammed Sinwar, a key Hamas leader. Sinwar's body was reportedly found in a tunnel after air strikes in Gaza.",
+        "url": "https://www.livemint.com/news/hamas-gaza-chief-mohammad-sinwar-s-death-confirmed-by-israel-s-netanyahu-weeks-after-idf-found-body-in-tunnel-11748439951653.html",
         "language": "en"
     },
     {
@@ -11628,8 +11610,8 @@
         "language": "en"
     },
     {
-        "title": "‘A bill can be big or beautiful, not both’: Elon Musk mocks Donald Trump’s tax bill",
-        "published": "Wed, 28 May 2025 18:40:13 +0530",
+        "title": "‘A bill can be big or beautiful, not both’: Elon Musk mocks Donald Trump’s tax bill, sees   federal deficit surging",
+        "published": "Wed, 28 May 2025 18:40:14 +0530",
         "source": "Mint",
         "country": "India",
         "summary": "Elon Musk has criticised US President Donald Trump’s “Big Beautiful Bill,” warning it could increase the federal deficit and undo the cost-cutting efforts of the Department of Government Efficiency (DOGE), which Musk formerly led.",
@@ -11913,24 +11895,6 @@
         "country": "India",
         "summary": "HBO officially announced that Dominic McLaughlin will play the iconic role of Harry Potter, Arabella Stanton will play the clever and brave Hermione Granger, and Alastair Stout will play Ron Weasley, Harry’s loyal best friend.",
         "url": "https://www.livemint.com/news/trends/harry-potter-cast-hbo-author-jk-rowling-approves-hogwarts-new-trio-says-couldnt-be-happier-11748404949763.html",
-        "language": "en"
-    },
-    {
-        "title": "Gujarat: Local resident Harjibhai Devabhai Solanki burnt alive in Patan's Piprala village; two arrested",
-        "published": "Wed, 28 May 2025 10:19:11 +0530",
-        "source": "Mint",
-        "country": "India",
-        "summary": "Gujarat: Two individuals have been arrested in connection with the incident, according to Chirag Kotdiya, IGP Border Range.",
-        "url": "https://www.livemint.com/news/india/gujarat-local-resident-harjibhai-devabhai-solanki-burnt-alive-in-patans-piprala-village-two-arrested-11748407395847.html",
-        "language": "en"
-    },
-    {
-        "title": "Operation Sindoor: BSF shows ‘Vidhwansak’, ‘Automatic Grenade Launcher’ system used against Pak. What are these? | Video",
-        "published": "Wed, 28 May 2025 10:13:38 +0530",
-        "source": "Mint",
-        "country": "India",
-        "summary": "The display was held during a weapon exhibition at the BSF Frontier Headquarters in Jammu. India carried out Operation Sindoor on May 7 in response to Pahalgam terror attack that claimed 26 lives.",
-        "url": "https://www.livemint.com/news/india/operation-sindoor-bsf-shows-vidhwansak-automatic-grenade-launcher-system-used-against-pak-what-are-these-video-11748403317219.html",
         "language": "en"
     }
 ]

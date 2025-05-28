@@ -56,7 +56,7 @@
     {
         "country": "Singapore",
         "news_agencies": "Channel News Asia,Straits Times",
-        "total_articles": 86,
+        "total_articles": 83,
         "historical_since": "Mon,"
     },
     {
@@ -80,7 +80,7 @@
     {
         "country": "USA",
         "news_agencies": "NY Times,CNN",
-        "total_articles": 75,
+        "total_articles": 74,
         "historical_since": "2023-03-31"
     }
 ]
