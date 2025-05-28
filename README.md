@@ -38,27 +38,27 @@ This project is a **Flask-based news aggregator** that collects news articles fr
 ├── requirements.txt         # Python dependencies
 └── README.md                # You're reading this
 ```
-
 ---
+
 
 ## 📊 Example Summary Data (`news_summary.json`)
 
-```json
-[
-  {
-    "country": "USA",
-    "news_agencies": "CNN, Fox News, NYT",
-    "total_articles": 1245,
-    "historical_since": "2021-03-04"
-  },
-  {
-    "country": "India",
-    "news_agencies": "NDTV, Times of India",
-    "total_articles": 948,
-    "historical_since": "2022-01-15"
-  }
-]
-```
+| Country   | News Agencies                                                                                             | Total Articles | Historical Since |
+| --------- | --------------------------------------------------------------------------------------------------------- | -------------- | ---------------- |
+| Australia | ABC News                                                                                                  | 25             | Wed,             |
+| China     | Xinhua                                                                                                    | 20             | 2017-03-30       |
+| France    | France24                                                                                                  | 24             | 2025-05-28       |
+| Germany   | DW                                                                                                        | 21             | Wed,             |
+| Hong Kong | South China Morning Post                                                                                  | 50             | Wed,             |
+| India     | Times of India, The Hindu, Indian Express, NDTV, Hindustan Times, Economic Times, DNA India, News18, Mint | 727            | 2025-05-22       |
+| Italy     | La Repubblica                                                                                             | 27             | Tue,             |
+| Qatar     | Al Jazeera                                                                                                | 25             | Wed,             |
+| Russia    | RT                                                                                                        | 100            | Fri,             |
+| Singapore | Channel News Asia, Straits Times                                                                          | 83             | Mon,             |
+| Spain     | El País                                                                                                   | 59             | 2021-11-15       |
+| Thailand  | Bangkok Post                                                                                              | 10             | Mon,             |
+| UK        | BBC News, Guardian                                                                                        | 77             | 2025-04-30       |
+| USA       | NY Times, CNN                                                                                             | 74             | 2023-03-31       |
 
 ---
 
