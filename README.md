@@ -99,7 +99,7 @@ APScheduler==3.10.4
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/news-aggregator-rss.git](https://github.com/SajalSatsangi/News-Aggregator-Rss)
+git clone https://github.com/SajalSatsangi/News-Aggregator-Rss
 cd News-Aggregator-Rss
 ```
 
