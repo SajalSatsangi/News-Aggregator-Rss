@@ -1,0 +1,28 @@
+# rss_feeds.py
+rss_feeds = [
+    ("BBC News", "UK", "http://feeds.bbci.co.uk/news/rss.xml"),
+    ("Al Jazeera", "Qatar", "https://www.aljazeera.com/xml/rss/all.xml"),
+    ("NY Times", "USA", "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"),
+    ("Times of India", "India", "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms"),
+    ("The Hindu", "India", "https://www.thehindu.com/news/national/feeder/default.rss"),
+    ("ABC News", "Australia", "https://www.abc.net.au/news/feed/51120/rss.xml"),
+    ("Channel News Asia", "Singapore", "https://www.channelnewsasia.com/rssfeeds/8395986"),
+    ("Xinhua", "China", "http://www.xinhuanet.com/english/rss/worldrss.xml"),
+    ("France24", "France", "https://www.france24.com/en/rss"),
+    ("RT", "Russia", "https://www.rt.com/rss/news/"),
+    ("CNN", "USA", "http://rss.cnn.com/rss/edition.rss"),
+    ("DW", "Germany", "https://rss.dw.com/rdf/rss-en-top"),
+    ("Guardian", "UK", "https://www.theguardian.com/world/rss"),
+    ("El País", "Spain", "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada"),
+    ("La Repubblica", "Italy", "https://www.repubblica.it/rss/homepage/rss2.0.xml"),
+    ("Bangkok Post", "Thailand", "https://www.bangkokpost.com/rss/data/news.xml"),
+    ("South China Morning Post", "Hong Kong", "https://www.scmp.com/rss/91/feed"),
+    ("Straits Times", "Singapore", "https://www.straitstimes.com/news/singapore/rss.xml"),
+    ("Indian Express", "India", "https://indianexpress.com/feed/"),
+    ("NDTV", "India", "https://feeds.feedburner.com/NDTV-LatestNews"),
+    ("Hindustan Times", "India", "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml"),
+    ("Economic Times", "India", "https://economictimes.indiatimes.com/rssfeedstopstories.cms"),
+    ("DNA India", "India", "https://www.dnaindia.com/feeds/india.xml"),
+    ("News18", "India", "https://www.news18.com/rss/india.xml"),
+    ("Mint", "India", "https://www.livemint.com/rss/news")
+]
