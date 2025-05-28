@@ -124,7 +124,11 @@ def generate_and_save_summary_json():
     summary = []
     for row in rows:
         country, agencies, total_articles, earliest_date = row
-        earliest_date_str = earliest_date.split(" ")[0] if earliest_date else "N/A"
+        try:
+            dt = datetime.strptime(earliest_date, "%Y-%m-%d %H:%M:%S")
+            earliest_date_str = dt.strftime("%Y-%m-%d")
+        except Exception:
+            earliest_date_str = "N/A"
         summary.append({
             "country": country,
             "news_agencies": agencies,

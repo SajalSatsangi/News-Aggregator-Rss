@@ -3,13 +3,13 @@
         "country": "Australia",
         "news_agencies": "ABC News",
         "total_articles": 25,
-        "historical_since": "Wed,"
+        "historical_since": "N/A"
     },
     {
         "country": "China",
         "news_agencies": "Xinhua",
         "total_articles": 20,
-        "historical_since": "2017-03-30"
+        "historical_since": "N/A"
     },
     {
         "country": "France",
@@ -27,37 +27,37 @@
         "country": "Hong Kong",
         "news_agencies": "South China Morning Post",
         "total_articles": 50,
-        "historical_since": "Wed,"
+        "historical_since": "N/A"
     },
     {
         "country": "India",
         "news_agencies": "Times of India,The Hindu,Indian Express,NDTV,Hindustan Times,Economic Times,DNA India,News18,Mint",
         "total_articles": 727,
-        "historical_since": "2025-05-22T18:28:17+05:30"
+        "historical_since": "N/A"
     },
     {
         "country": "Italy",
         "news_agencies": "La Repubblica",
         "total_articles": 27,
-        "historical_since": "Tue,"
+        "historical_since": "N/A"
     },
     {
         "country": "Qatar",
         "news_agencies": "Al Jazeera",
         "total_articles": 25,
-        "historical_since": "Wed,"
+        "historical_since": "N/A"
     },
     {
         "country": "Russia",
         "news_agencies": "RT",
         "total_articles": 100,
-        "historical_since": "Fri,"
+        "historical_since": "N/A"
     },
     {
         "country": "Singapore",
         "news_agencies": "Channel News Asia,Straits Times",
         "total_articles": 83,
-        "historical_since": "Mon,"
+        "historical_since": "N/A"
     },
     {
         "country": "Spain",
@@ -69,7 +69,7 @@
         "country": "Thailand",
         "news_agencies": "Bangkok Post",
         "total_articles": 10,
-        "historical_since": "Mon,"
+        "historical_since": "N/A"
     },
     {
         "country": "UK",
